@@ -1,2 +1,2 @@
 # dices
- A Sim[ple Dice App
+ A Simple Dice App
